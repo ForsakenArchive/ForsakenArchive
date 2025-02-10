@@ -7,7 +7,7 @@
 <h1 align="center"><B>This is an official Github page associated with the Forsaken Novel Verse</B></H1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=We+Are+Authors+Of+Foresaken+Versenet%F0%9F%97%BF;This+page+provides+you+with+all%F0%9F%91%80;open+source+projects+by+Foresaken+Authors">
+<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=We+Are+Authors+Of+Forsaken+Versenet%F0%9F%97%BF;This+page+provides+you+with+all%F0%9F%91%80;open+source+projects+by+Forsaken+Authors">
 </p>
 
 <p align="center">
