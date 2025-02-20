@@ -34,7 +34,7 @@
 
 - **Temporal Disturbance:** <span class="glitch-text">ERROR: Timestamps desynchronized...</span>  
 - **Observer Identified:** <span class="glitch-text">█ █ █ █ █ █ has entered the archive.</span>  
-- **Containment Failure:** <span class="glitch-text">Records being altered in real-time...</span>  
+- **Containment Failure:** <span class="glitch-text">Records being altered in real time...</span>  
 - **Access Violation:** <span class="glitch-text">You were not expected.</span>  
 
 <div align="center">
@@ -80,7 +80,7 @@ This session does not end.
 
 <div align="center">
 
-** SYSTEM LOG TERMINATED **  
+**SYSTEM LOG TERMINATED**  
 
 **LOADING...**  
 
