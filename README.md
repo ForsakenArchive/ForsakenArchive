@@ -7,6 +7,9 @@
 
 <img src="Forsaken.gif" alt="Forsaken Eerie Animation" width="600" style="border: 3px solid #7F3FBF; border-radius: 10px;">
 
+![Terminal Code](https://readme-typing-svg.herokuapp.com?lines=TERMINAL+ACCESS:+FSGHOST...;&font=Fira+Code&pause=1000&center=true&width=600&height=100&color=0aff0a)
+
+
 </div>  
 
 ---
